@@ -73,4 +73,13 @@ h2{
 
 .customer{
     display:grid;
+    grid-template-columns: 20em 200px 30%;
+    grid-template-rows: 200px auto;
+    gap: 20px;
+}
+#onan{
+    margin-left: 800px;
+}
+#view{
+    margin-left: 800px;
 }
