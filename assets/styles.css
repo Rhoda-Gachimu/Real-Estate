@@ -43,7 +43,7 @@ button{
     font-size: 20px;
     font-weight: bold;
     color: #2549D3;
-    margin: 0;
+    margin: px;
     text-align:center;
 }
 #How{
@@ -70,6 +70,39 @@ h2{
     font-size:15px ;
     text-align:center; 
 }
+#choose{
+    text-align: right;
+    color: #2549D3;
+    text-indent: 
+}
+#Us{
+    text-align:right;
+    text-indent: 200px;
+    
+}
+
+#worldclass{
+    text-align:right;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-weight: 600;
+}
+.chooseus{
+    display: inline-table;
+    
+    
+}
+
+#properties{
+    text-align:center;
+    color: #2549D3;
+    text size: 100px;
+
+}
+#soldout{
+    text-align:center;
+}
+
 
 .customer{
     display:grid;
