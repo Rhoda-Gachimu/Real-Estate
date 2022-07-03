@@ -65,6 +65,7 @@ button{
 #Esteemed{
     color: #2549D3;
     text-align:center;
+    font-size: 30px;
 }
 h2{
     font-size:15px ;
@@ -73,7 +74,7 @@ h2{
 #choose{
     text-align: right;
     color: #2549D3;
-    text-indent: 
+    font-size: 30px;
 }
 #Us{
     text-align:right;
@@ -88,7 +89,10 @@ h2{
     font-weight: 600;
 }
 .chooseus{
-    display: inline-table;
+    display:grid;
+    grid-template-columns: 1fr 1fr ;
+    padding: 20px;
+    
     
     
 }
@@ -96,7 +100,7 @@ h2{
 #properties{
     text-align:center;
     color: #2549D3;
-    text size: 100px;
+    font-size: 30px;
 
 }
 #soldout{
@@ -109,6 +113,7 @@ h2{
     grid-template-columns: 20em 200px 30%;
     grid-template-rows: 200px auto;
     gap: 20px;
+    
 }
 #onan{
     margin-left: 70%;
