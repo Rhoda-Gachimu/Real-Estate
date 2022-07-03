@@ -79,13 +79,19 @@ h2{
 }
 #onan{
     margin-left: 70%;
+    margin-bottom: 50px;
 }
 #view{
     margin-left: 70%;
+
 }
 .footer{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 200px auto;
     gap: 30px;
+    background-color: #2549D3;
+    color: #FAFAFA;
+    padding: 20px;
+    
 }
