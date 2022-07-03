@@ -20,14 +20,16 @@ a{
     color: black;
 }
 button{
-    padding: 5px;
+    padding: 10px;
     background-color:#2549D3;
     color:#FAFAFA;
     border: 0px;
     border-radius: 5px;
+    margin: 30px;
 }
 #mainpurpose{
     font-size: 50px;
+    color: #2549D3;
 }
 #goal{
     font-size: 20px;
