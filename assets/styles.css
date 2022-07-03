@@ -25,7 +25,7 @@ button{
     color:#FAFAFA;
     border: 0px;
     border-radius: 5px;
-    margin: 30px;
+    margin: 10px;
 }
 #mainpurpose{
     font-size: 50px;
@@ -36,7 +36,7 @@ button{
 
 }
 #products{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     color: #2549D3;
     margin: 100;
@@ -53,17 +53,14 @@ button{
 }
 
 .working{
-    display:flex;
-   justify-content:space-evenly;
-   border-bottom: 100;
-   margin-top: 20px;  
-   border-bottom:1px solid black;
-   padding-bottom: 10px;
-   
+    display:grid
+    grid-template-columns;1fr 1fr 1fr;
+    
+    justify-content:space-evenly;
+    margin-top: 20px;  
+    padding-bottom: 10px;
 }
-#home{
-    text-align:center;
-}
+
 #Esteemed{
     color: #2549D3;
     text-align:center;
