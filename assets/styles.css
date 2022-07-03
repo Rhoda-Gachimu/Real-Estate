@@ -37,7 +37,7 @@ button{
     font-size: 20px;
     font-weight: bold;
     color: #2549D3;
-    margin: 0;
+    margin: 100;
 }
 #workingmode{
     font-size: 20px;
@@ -50,10 +50,27 @@ button{
     text-align:center;
 }
 
+.working{
+    display:flex;
+   justify-content:space-evenly;
+   border-bottom: 100;
+   margin-top: 20px;  
+   border-bottom:1px solid black;
+   padding-bottom: 10px;
+   
+}
+#home{
+    text-align:center;
+}
+#Esteemed{
+    color: #2549D3;
+    text-align:center;
+}
+h2{
+    font-size:15px ;
+    text-align:center; 
 }
 
-
-img{
-    display:flex
-    margin-right: auto;
+.customer{
+    display:grid;
 }
