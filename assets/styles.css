@@ -33,3 +33,27 @@ button{
     font-size: 20px;
 
 }
+#products{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2549D3;
+    margin: 0;
+}
+#workingmode{
+    font-size: 20px;
+    font-weight: bold;
+    color: #2549D3;
+    margin: 0;
+    text-align:center;
+}
+#How{
+    text-align:center;
+}
+
+}
+
+
+img{
+    display:flex
+    margin-right: auto;
+}
