@@ -95,10 +95,18 @@ h2{
     display:grid;
     grid-template-columns: 1fr 1fr ;
     padding: 20px;
-    
-    
+ 
     
 }
+.Houses{
+    display:grid;
+    grid-template-columns: 20em 200px 30%;
+    grid-template-rows: 200px auto;
+    gap: 20px; 
+    justify-content:space-around;
+}
+    
+
 
 #properties{
     text-align:center;
