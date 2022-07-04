@@ -109,6 +109,13 @@ h2{
 #soldout{
     text-align:center;
 }
+.images{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 200px auto;
+    gap: 30px;
+    padding: 20px; 
+}
 
 
 .customer{
