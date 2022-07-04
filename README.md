@@ -64,5 +64,7 @@
  ## Authors Info
 
  Rhoda Gachimu
- rhoda.gachimu@student.moringaschool.com
+ rhoda.gachimu@student.moringaschool.com ,
+
+
  gachimurhoda@gmail.com
