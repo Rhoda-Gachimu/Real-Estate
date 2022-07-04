@@ -54,10 +54,10 @@ button{
 
 .working{
     display:grid
-    grid-template-columns;1fr 1fr 1f;
-    justify-content:space-evenly;
+    grid-template-columns;1fr 1fr 1fr;
+    justify-content:space-evenly
     margin-top: 20px;  
-    padding-bottom: 10px;
+    padding bottom: 10px;
 }
 
 #Esteemed{
